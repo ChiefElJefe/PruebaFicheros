@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <libros>
+        <libro>
+            <nombre>La gente do Bruma</nombre>
+            <autor>Brandon Sanderson</autor>
+            <precio>3.45</precio>
+            <id>1</id>
+        </libro>
+        <libro>
+            <nombre>La gente do Bruma</nombre>
+            <autor>Brandon Sanderson</autor>
+            <precio>3.45</precio>
+            <id>2</id>
+        </libro>
+        <libro>
+            <nombre>La gente do Bruma</nombre>
+            <autor>Brandon Sanderson</autor>
+            <precio>3.45</precio>
+            <id>3</id>
+        </libro>
+        <libro>
+            <nombre>La gente do Bruma</nombre>
+            <autor>Brandon Sanderson</autor>
+            <precio>3.45</precio>
+            <id>4</id>
+        </libro>
+
+    </libros>
+</xml>

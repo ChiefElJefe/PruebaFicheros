@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Libros>
+    <libro>
+        <nombre>Tortas</nombre>
+        <autor>Hexon</autor>
+        <id>0</id>
+    </libro>
+    <libro>
+        <nombre>Hayabina</nombre>
+        <autor>Lex</autor>
+        <id>1</id>
+    </libro>
+    <libro>
+        <nombre>Faringitis Patrigg</nombre>
+        <autor>Kindjal</autor>
+        <id>2</id>
+    </libro>
+    <libro>
+        <nombre>Saulot3</nombre>
+        <autor>3</autor>
+        <id>3</id>
+    </libro>
+    <libro>
+        <nombre>Derclon</nombre>
+        <autor>Mexican Man</autor>
+        <id>3</id>
+    </libro>
+</Libros>

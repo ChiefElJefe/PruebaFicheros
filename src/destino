@@ -1,0 +1,10 @@
+#Bien guapardo
+#Mon Nov 14 19:28:28 CET 2022
+xmlrpc_port=8555
+[options]=
+db_user=Miguel Angel
+;=admin_passwd \= admin
+db_port=5432
+db_host=localhost
+db_password=odoo
+addons_path=C\:Program Filesodoo-13.0addons ,C\:Program Filesodoo-13.0addons-customs
